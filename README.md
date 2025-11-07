@@ -52,7 +52,6 @@ TEN-DU-AN/
 ├── README.md             # File hướng dẫn chung về dự án.
 └── tsconfig.json         # File cấu hình TypeScript (bao gồm cả alias paths)
 
-
 | 1️⃣ Presentation Layer (Hiển thị & UI)    | Xử lý giao diện, bố cục, trải nghiệm người dùng.                      | `components/`, `layouts/`, `pages/`, `assets/`, `styles/` |
 | 2️⃣ Business Logic Layer (Xử lý nghiệp vụ)| Quản lý logic ứng dụng, state, hooks, route và các quy tắc hoạt động. | `contexts/`, `hooks/`, `routes/`, `utils/`                |
 | 3️⃣ Data Layer (Dữ liệu & Kết nối)        | Quản lý dữ liệu, API, và kiểu dữ liệu (types).                        | `services/`, `types/`                                     |
